@@ -1,0 +1,10 @@
+{
+  "name": "LAB READY — Infectious Diseases Reference",
+  "short_name": "LAB READY",
+  "description": "Offline-ready educational reference for infectious diseases and diagnostic microbiology.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f6",
+  "theme_color": "#102b36",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
